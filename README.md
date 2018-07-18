@@ -2,12 +2,12 @@
 
 **Description**
   
-    A web application designed for project or product managers.
+    FeedMails is a web application designed for the projects or the product managers.
 
 **Features**
   
-    FeedMails helps manager send bulk emails to other uses within a user group. FeedMails asks for feed back from
-    the users, using the collected data to generate reports based on manager's need.
+    FeedMails helps managers sending bulk emails to other users within a user group. FeedMails asks for feeding back from
+    the users, and using the collected data to generate reports based on managers' need.
 
 **Authentication**
   
