@@ -6,8 +6,7 @@
 
 **Features**
   
-    FeedMails helps manager send bulk emails to other uses within a user group. FeedMails asks for feed back from
-    the users, using the collected data to generate reports based on manager's need.
+    Manager can use FeedMails to send bulk emails to other users within a user group. And FeedMails use the collected data to generate         reports based on manager's need by feedback from users.
 
 **Authentication**
   
